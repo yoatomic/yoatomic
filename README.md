@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yoatomic
+- 👀 I’m interested in exploring new technologies, coding challenges, and data science. I love working on innovative projects and learning about the latest trends in computer science.
+- 🌱 I’m currently learning advanced Python techniques and diving into machine learning. Always excited to expand my knowledge and skills!
+- 💞️ I’m looking to collaborate on open-source projects, particularly those involving data analysis or web development. If you have a cool idea or need a hand, let’s connect!
+- 📫 How to reach me: Feel free to email me at [yoatomic](mailto:) or connect with me on [LinkedIn](https://www.linkedin.com/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a robot that can play chess!
